@@ -10,4 +10,4 @@
 
 ## Files
 - `offer_letter.pdf` — Prasoon offer letter
-- `experience_certificate.pdf` — Internship completion certificate
+- `experience_certificate.pdf` — Prasoon_Completion_certificate
